@@ -28,4 +28,6 @@ admin.autodiscover()
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^abhi/'),
+    url(r'^abhiram/'),
+    url(r'^ahmed/'),
 ]
